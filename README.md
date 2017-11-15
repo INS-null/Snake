@@ -1,9 +1,1 @@
-    <canvas id="c" width="600px" height="600px" style=""></canvas>
-    <div id="Controller">
-        <div>
-            <button id="up"></button>
-            <button id="down"></button>
-            <button id="left"></button>
-            <button id="right"></button>
-        </div>
-    </div>
+<h1 style="padding: 20px;box-shadow: 0 0 10px;">贪吃蛇</h1>
