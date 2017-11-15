@@ -6,8 +6,8 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>贪吃蛇</title>
-    <link rel="stylesheet" href="Css/style.css">
-    <script src="Js/Snake.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <script src="Snake.js"></script>
 </head>
 <body>
     <canvas id="c" width="600px" height="600px" style=""></canvas>
